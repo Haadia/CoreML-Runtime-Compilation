@@ -9,3 +9,4 @@ This includes:
 
 For full tutorial, visit this link. 
 
+http://hadiajalil.com/2019/03/30/coreml/
